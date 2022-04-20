@@ -1,4 +1,9 @@
-### Hi there 👋
+### Guten Tag!
+
+- My name is Ivan.
+- I'm a PhD student @ Skoltech 🎓
+- I try to be where spatial data meets data science 🗺️📊
+- I research and work on remote sensing for precision forestry 🌳🌲🛰️
 
 <!--
 **iod-ine/iod-ine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💀 When Putin dies the world will become better ...
 -->
