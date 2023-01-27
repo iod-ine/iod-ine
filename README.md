@@ -5,6 +5,15 @@
 - I currently work @ Sberbank doing data science and big data analytics.
 - I have a lot of research experience, mostly on remote sensing for precision forestry 🌳🌲🛰️
 
+<div align="center">
+
+![](https://raw.githubusercontent.com/iod-ine/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iod-ine/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/iod-ine/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iod-ine/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+</div>
+
 <!--
 **iod-ine/iod-ine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
