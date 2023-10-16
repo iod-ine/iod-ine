@@ -2,7 +2,7 @@
 
 - My name is Ivan.
 - I am a geophysicist, a programmer, and a data scientist.
-- I currently work @ Sberbank doing data science and big data analytics.
+- I work @ Yandex.
 - I have a lot of research experience, mostly on remote sensing for precision forestry 🌳🌲🛰️
 
 <div align="center">
