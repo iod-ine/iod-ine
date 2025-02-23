@@ -1,9 +1,9 @@
 ### Guten Tag!
 
 - My name is Ivan.
-- I am a geophysicist, a programmer, and a data scientist.
-- I work @ Yandex.
-- I have a lot of research experience, mostly on remote sensing for precision forestry 🌳🌲🛰️
+- I am a geophysicist and a machine learning engineer.
+- I work @ Yandex in the delivery-robot perception team.
+- I have a PhD in Engineering Systems, for research on remote sensing for precision forestry 🌳🌲🛰️
 
 <div align="center">
 
